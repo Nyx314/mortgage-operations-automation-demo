@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sanitized title request email draft</title>
+  <desc id="desc">Fictional email draft showing a human-review banner and generic mortgage title request content.</desc>
+  <rect width="1200" height="900" fill="#eef2f5"/>
+  <g font-family="Arial, sans-serif">
+    <rect x="105" y="58" width="990" height="784" rx="16" fill="#ffffff" stroke="#cfd8df"/>
+    <rect x="105" y="58" width="990" height="70" rx="16" fill="#16324f"/>
+    <text x="145" y="102" font-size="23" font-weight="700" fill="#ffffff">Email draft</text>
+    <text x="1050" y="101" text-anchor="end" font-size="15" fill="#c9d8e6">FICTIONAL DATA</text>
+    <rect x="145" y="154" width="910" height="66" rx="9" fill="#fff7ed" stroke="#fdba74"/>
+    <text x="169" y="181" font-size="16" font-weight="700" fill="#9a3412">HUMAN REVIEW REQUIRED</text>
+    <text x="169" y="205" font-size="14" fill="#7c2d12">Confirm recipient, property, loan number, lender clause, and requested documents before sending.</text>
+    <g font-size="15" fill="#405160">
+      <text x="145" y="263" font-weight="700">To</text><text x="235" y="263">title-contact@example.test</text>
+      <line x1="145" y1="280" x2="1055" y2="280" stroke="#e3e8ed"/>
+      <text x="145" y="316" font-weight="700">Subject</text><text x="235" y="316">TEST - DO NOT PROCESS | Title Request - 100 Demo Avenue | Jordan Example</text>
+      <line x1="145" y1="334" x2="1055" y2="334" stroke="#e3e8ed"/>
+    </g>
+    <g font-size="16" fill="#253746">
+      <text x="145" y="382">Hello Demo Title Contact,</text>
+      <text x="145" y="424">Please provide the following for the referenced fictional property:</text>
+      <text x="170" y="464">• Title Commitment</text>
+      <text x="170" y="496">• 24-Month Chain of Title</text>
+      <text x="170" y="528">• Closing Protection Letter reflecting Loan #DEMO-1001</text>
+      <text x="170" y="560">• Preliminary Closing Disclosure</text>
+      <text x="170" y="592">• Tax Certificate, wire instructions, and E&amp;O insurance</text>
+      <text x="145" y="642" font-weight="700">Lender information</text>
+      <text x="145" y="677">Example Mortgage LLC ISAOA/ATIMA</text>
+      <text x="145" y="709">100 Example Plaza, Miami, FL 33101</text>
+      <text x="145" y="741">Loan Number: DEMO-1001</text>
+      <text x="145" y="790">Thank you.</text>
+    </g>
+  </g>
+</svg>
+

@@ -67,7 +67,23 @@ flowchart LR
 
 The portfolio focuses on the operational design and control logic rather than exposing live credentials, proprietary client configuration, or borrower information.
 
+## Sanitized visual demonstration
+
+These visuals are purpose-built mockups using fictional information. They are not screenshots of a live client base or mailbox.
+
+### Operations dashboard
+
+![Sanitized mortgage operations dashboard](screenshots/operations-dashboard-demo.svg)
+
+### Human-reviewed email draft
+
+![Sanitized title request draft](screenshots/email-draft-demo.svg)
+
+## Demo and pilot evidence
+
+- [`docs/demo-walkthrough.md`](docs/demo-walkthrough.md): a concise narrated-demo script
+- [`docs/pilot-results-template.md`](docs/pilot-results-template.md): an evidence form for a supervised real-loan pilot
+
 ## Status
 
 The sanitized demonstration reflects tested title and insurance clause selection, template generation, draft creation, writeback, duplicate protection, operational views, and scheduled digest delivery. A real deployment still requires client-specific configuration, permissions, testing, training, and compliance review.
-
