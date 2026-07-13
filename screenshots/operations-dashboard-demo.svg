@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sanitized mortgage operations dashboard</title>
+  <desc id="desc">Fictional dashboard showing operational metrics and two fictional mortgage order records.</desc>
+  <rect width="1440" height="900" fill="#f4f6f8"/>
+  <rect width="1440" height="84" fill="#16324f"/>
+  <text x="56" y="53" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">Mortgage Operations Workflow</text>
+  <text x="1384" y="51" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#c9d8e6">SANITIZED DEMO</text>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(56 125)">
+      <rect width="300" height="130" rx="14" fill="#ffffff" stroke="#dbe2e8"/>
+      <text x="24" y="40" font-size="16" fill="#5f6b76">Due today</text>
+      <text x="24" y="94" font-size="46" font-weight="700" fill="#16324f">3</text>
+    </g>
+    <g transform="translate(382 125)">
+      <rect width="300" height="130" rx="14" fill="#ffffff" stroke="#dbe2e8"/>
+      <text x="24" y="40" font-size="16" fill="#5f6b76">Missing items</text>
+      <text x="24" y="94" font-size="46" font-weight="700" fill="#b45309">2</text>
+    </g>
+    <g transform="translate(708 125)">
+      <rect width="300" height="130" rx="14" fill="#ffffff" stroke="#dbe2e8"/>
+      <text x="24" y="40" font-size="16" fill="#5f6b76">Vendor ETA overdue</text>
+      <text x="24" y="94" font-size="46" font-weight="700" fill="#b91c1c">1</text>
+    </g>
+    <g transform="translate(1034 125)">
+      <rect width="350" height="130" rx="14" fill="#ffffff" stroke="#dbe2e8"/>
+      <text x="24" y="40" font-size="16" fill="#5f6b76">Drafts awaiting review</text>
+      <text x="24" y="94" font-size="46" font-weight="700" fill="#2563eb">1</text>
+    </g>
+    <rect x="56" y="299" width="1328" height="535" rx="14" fill="#ffffff" stroke="#dbe2e8"/>
+    <text x="84" y="345" font-size="22" font-weight="700" fill="#16324f">Actionable orders</text>
+    <rect x="84" y="374" width="1272" height="52" rx="8" fill="#e8eef4"/>
+    <g font-size="14" font-weight="700" fill="#405160">
+      <text x="104" y="407">ORDER</text><text x="365" y="407">TYPE</text><text x="500" y="407">CLAUSE</text><text x="690" y="407">NEXT FOLLOW-UP</text><text x="900" y="407">OWNER</text><text x="1080" y="407">PRIORITY</text><text x="1230" y="407">STATUS</text>
+    </g>
+    <g font-size="16" fill="#253746">
+      <text x="104" y="477" font-weight="700">DEMO-001 - Title</text><text x="365" y="477">Title</text><text x="500" y="477" fill="#15803d">READY</text><text x="690" y="477">Jul 15, 9:00 AM</text><text x="900" y="477">Demo Owner</text><text x="1080" y="477" fill="#b45309">HIGH</text><text x="1230" y="477">Draft review</text>
+      <line x1="84" y1="510" x2="1356" y2="510" stroke="#e3e8ed"/>
+      <text x="104" y="564" font-weight="700">DEMO-002 - Insurance</text><text x="365" y="564">Insurance</text><text x="500" y="564" fill="#b45309">REVIEW</text><text x="690" y="564">Jul 15, 11:00 AM</text><text x="900" y="564">Demo Owner</text><text x="1080" y="564">NORMAL</text><text x="1230" y="564">Needs info</text>
+    </g>
+    <rect x="84" y="638" width="1272" height="148" rx="10" fill="#f8fafc" stroke="#e3e8ed"/>
+    <text x="108" y="679" font-size="17" font-weight="700" fill="#16324f">Human-control checkpoint</text>
+    <text x="108" y="716" font-size="16" fill="#405160">Messages remain drafts until an authorized person confirms the recipient, loan data, lender clause, and requested documents.</text>
+    <text x="108" y="750" font-size="16" fill="#405160">Missing or conflicting clauses route to manual review.</text>
+  </g>
+</svg>
+
